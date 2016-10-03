@@ -20,4 +20,4 @@ puts"Entre com um número"
 chute = gets
 puts
 
-puts"Você chutou o #{chute}"
+puts"Será que você acertou? seu chutou foi: #{chute}"
